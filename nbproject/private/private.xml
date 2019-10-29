@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/aindex.html</url>
+            <bookmark id="1">
+                <name/>
+                <line>82</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/viewfeed.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/src/java/eventAdd.java</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/accStmt.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/volunteer.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/viewfeed.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/accStmt1.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/eventJsp.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/aindex.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/src/java/adminLogin.java</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/src/java/sLogin.java</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/web/sindex.jsp</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/src/java/bean/homeBean.java</file>
+            <file>file:/C:/Users/Girish/Documents/NetBeansProjects/jdbc_check_mysql/src/java/delVol.java</file>
+        </group>
+    </open-files>
+</project-private>
